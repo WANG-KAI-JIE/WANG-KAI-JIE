@@ -27,7 +27,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ WANG-KAI-JIE }}
+          github_user_name: ${{ github.WANG-KAI-JIE }}
           outputs: |
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
