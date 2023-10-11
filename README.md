@@ -11,6 +11,21 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/WANG-KAI-JIE/WANG-KAI-JIE/output/github-contribution-grid-snake.svg" />
 </picture> 
 
+<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="/output/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
