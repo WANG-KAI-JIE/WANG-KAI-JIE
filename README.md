@@ -30,7 +30,7 @@
 </div>
 <br />
 <br />
-<img src="https://fatcat666.oss-cn-nanjing.aliyuncs.com/image/202310170857363.png" alt="image-20231017085706030" style="zoom: 33%;" />
+<img align="right" src="https://fatcat666.oss-cn-nanjing.aliyuncs.com/image/202310170857363.png" alt="image-20231017085706030" width="200" />
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
