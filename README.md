@@ -30,7 +30,7 @@
 </div>
 <br />
 <br />
-<img align="right" alt="GIF" src="https://fatcat666.oss-cn-nanjing.aliyuncs.com/image/202302250942314.png" width="400"/>
+<img src="https://fatcat666.oss-cn-nanjing.aliyuncs.com/image/202310170857363.png" alt="image-20231017085706030" style="zoom: 33%;" />
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
